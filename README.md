@@ -10,11 +10,6 @@ This project implements the seam carving algorithm in C++ using OpenCV. Seam car
 - Resizes images while preserving significant content
 - Works with most image formats supported by OpenCV
 
-## Prerequisites
-
-- C++17 
-- OpenCV (version 4.x recommended)
-
 ### Install Packages (Ubuntu)
 
 ```bash
