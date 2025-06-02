@@ -20,7 +20,7 @@ sudo apt install pkg-config
 sudo apt-get install libopencv-dev
 ```
 
-###To run the code
+### To run the code
 
 In your run.sh
 
