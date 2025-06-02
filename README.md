@@ -38,5 +38,5 @@ After completing the steps above, compile using:
 ./run.sh
 ```
 ```bash
-./2024202010_A1_Q4 sample1.jpeg
+./2024202010_A1_Q4 image_path
 ```
